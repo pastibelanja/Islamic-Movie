@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Islamic Movie</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="account">Account</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_tv">Detail TV Show</string>
+    <string name="frag_account">This Fagrment Account</string>
+    <string name="name_movie">Name Movie</string>
+    <string name="tv_date">Date : 17 August 1945</string>
+    <string name="tv_rate">Rate : 80 %</string>
+    <string name="tv_descrip">Description Movie</string>
+    <string name="overview">Overview :</string>
+    <string name="title_tv_show">Title Tv Show</string>
+    <string name="date">Date : 19 July 2019</string>
+    <string name="category"><![CDATA[Category : Drama & Action]]></string>
+    <string name="description">Description</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
